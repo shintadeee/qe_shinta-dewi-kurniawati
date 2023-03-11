@@ -1,2 +1,1 @@
-[(6) Basic Programming] <br>
-Basic Programming adalah 
+[(6) Basic Programming](Basic Programming adalah) 
