@@ -1,1 +1,2 @@
-
+[(12) Fundamental Performance Test](https://docs.google.com/document/d/1Y9AaI18oEMPrDHCYxtGmYHRL-c1v7nIGuQjUpUTVNOs/edit) <br>
+[(12) Introduction JMeter and Tutorial Record with JMeter](https://docs.google.com/document/d/14VPI772plP4MrcNPrTBIoi57PQpJ7VPgY_d1gbVxFd4/edit?usp=sharing)
